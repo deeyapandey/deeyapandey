@@ -1,4 +1,4 @@
-# Hi, I'm Deeya Pandey 👋
+# Hi, I'm Deeya Pandey 
 
 Full-stack developer focused on building clean, scalable, and maintainable web applications.
 
