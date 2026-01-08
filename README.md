@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Deeya Pandey 👋
 
-<!--
-**deeyapandey/deeyapandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on building clean, scalable, and maintainable web applications.
 
-Here are some ideas to get you started:
+I work primarily with modern JavaScript frameworks on the frontend and .NET-based architectures on the backend, with a strong emphasis on performance, usability, and clean code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 What I Do
+
+- Build responsive, production-ready web applications
+- Design RESTful APIs and backend services
+- Work with relational databases and data modeling
+- Write clean, maintainable, and testable code
+- Collaborate in structured, real-world development environments
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- Next.js
+- React
+- Tailwind CSS
+- HTML, CSS, JavaScript
+
+**Backend**
+- ASP.NET Core
+- C#
+- REST APIs
+
+**Database**
+- SQL Server
+- Relational database design
+
+**Tools & Practices**
+- Git & GitHub
+- Clean Architecture
+- JWT Authentication
+- API Integration
+
+---
+
+## 📌 Featured Work
+
+> Pinned repositories below showcase real-world features such as authentication, CRUD operations, API integration, and clean UI design.
+
+---
+
+## 📫 Contact
+
+- **LinkedIn:** https://www.linkedin.com/deeyapandey
+- **Email:** deeyapandey123@gmail.com
+
+---
+
+*Always learning, always improving.*
