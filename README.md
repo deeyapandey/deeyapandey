@@ -43,7 +43,7 @@ I work primarily with modern JavaScript frameworks on the frontend and .NET-base
 
 ## 📌 Featured Work
 
-> Pinned repositories below showcase real-world features such as authentication, CRUD operations, API integration, and clean UI design.
+> Pinned repositories below showcase real-world features such as CRUD operations, API integration, and clean UI design.
 
 ---
 
